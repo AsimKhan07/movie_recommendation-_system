@@ -2,6 +2,8 @@
 
 
 ## 📌 Overview
+![movie_recommendation_system](project_pic.png)
+
 A **content-based movie recommendation system** that suggests similar movies based on genres, cast, crew, and plot overviews using **machine learning and NLP techniques**. Built using **The Movie Database (TMDB)** dataset, this system helps users discover new movies they might enjoy!
 
 
