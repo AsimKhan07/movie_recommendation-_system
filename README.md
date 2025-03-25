@@ -1,11 +1,16 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommender System with Streamlit
 
 
 ## 📌 Overview
 ![movie_recommendation_system](project_pic.png)
 
-A **content-based movie recommendation system** that suggests similar movies based on genres, cast, crew, and plot overviews using **machine learning and NLP techniques**. Built using **The Movie Database (TMDB)** dataset, this system helps users discover new movies they might enjoy!
+In this project, I will develop a Movie Recommendation System, implement a machine learning model, and build an interactive web application using Streamlit.
 
+##What is a Recommendation System?
+A Recommendation System is a specialized branch of machine learning focused on predicting user preferences by ranking or rating items. These systems analyze user behavior and historical data to suggest relevant content, enhancing user experience.
+
+##Who Uses Recommendation Systems?
+Major companies, including Amazon, Netflix, LinkedIn, and Pandora, utilize recommender systems to provide personalized recommendations. These systems help users discover new and relevant content, such as products, movies, jobs, and music, ultimately improving engagement and increasing revenue.
 
 ## 🚀 Features
 ✅ **Content-Based Filtering** – Recommends movies based on similarities.  
