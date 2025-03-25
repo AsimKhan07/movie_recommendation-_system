@@ -1,7 +1,7 @@
 # 🎬 Movie Recommender System with Streamlit
 
 
-## 📌 Overview
+## 📌 Project Overview
 ![movie_recommendation_system](project_pic.png)
 
 In this project, I will develop a Movie Recommendation System, implement a machine learning model, and build an interactive web application using Streamlit.
@@ -14,7 +14,6 @@ Major companies, including Amazon, Netflix, LinkedIn, and Pandora, utilize recom
 
 ## 🚀 Features
 ✅ **Content-Based Filtering** – Recommends movies based on similarities.  
-✅ **Natural Language Processing (NLP)** – Extracts and processes movie metadata.  
 ✅ **Machine Learning (ML)** – Uses **TF-IDF & Cosine Similarity** for recommendations.  
 ✅ **Easy Deployment** – Deployable as a **Streamlit web app**.  
 ✅ **User-Friendly Interface** – Simple, interactive, and effective UI.  
